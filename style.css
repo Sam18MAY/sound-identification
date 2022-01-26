@@ -1,0 +1,41 @@
+body{
+    font-family: 'Cookie', cursive;
+    background-color: blanchedalmond;
+    font-size: 20px;
+    
+}
+
+.header_div{
+    background-color: white;
+    font-size: 30px;
+    color: rgb(216, 135, 15);
+    
+}
+
+.header_div p{
+   color: gray;
+   letter-spacing: 2px;
+   font-size: 18px;
+   font-weight: bold;
+}
+
+.main_div button{
+    font-family:monospace ;
+    margin-top: 30px;
+    font-size :20px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0px;
+    width: 100%;
+    font-size: 26px;
+    background-color: honeydew;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
